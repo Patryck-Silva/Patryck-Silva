@@ -21,6 +21,7 @@
 <!--<img align="center" alt="patryck-spring" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>-->
  <!-- <img align="center" alt="patryck-linux" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />-->
  <!-- <img align="center" alt="patryck-react" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />-->
+   <!-- <img align="center" alt="patryck-mysql"height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />-->
   <img align="right" alt="Patryck-pic" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/807137496873566231/958801022850039968/foto.png?width=676&height=676">
 </div>
   
