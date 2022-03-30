@@ -1,7 +1,34 @@
 <h1 align="left">Oi Tudo bem? Eu sou o <i>Patryck Silva</i>😃️</h1>
 <p align="left">Sou estudante de programação na <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a><span>👾</span></p>
+<p align="left">Estou estudando para ser um desenvolvedor Java Full Stack<span>💻</span></p>
 <div align="center">
   <a href="https://github.com/Patryck-Silva">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Patryck-Silva&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patryck-Silva&layout=compact&langs_count=7&theme=synthwave"/>
     </div>
+  
+ ##
+  <div style="display: inline_block" ><br>
+  <img align="center" alt="Patryck-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
+  <img align="center" alt="Patryck-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Patryck-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="patryck-bootstrap"height="30"widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+ <!-- <img align="center" alt="patryck-python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />-->
+  <img align="center" alt="Patryck-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <!--<img align="center" alt="patryck-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>-->
+<!--<img align="center" alt="patryck-node" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>-->
+<!--<img align="center" alt="patryck-spring" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>-->
+ <!-- <img align="center" alt="patryck-linux" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />-->
+ <!-- <img align="center" alt="patryck-react" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />-->
+  <img align="right" alt="Patryck-pic" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/807137496873566231/958801022850039968/foto.png?width=676&height=676">
+</div>
+  
+  ##
+   <div> 
+  <a href="https://www.instagram.com/tyckupnext/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style= "border-radius:50px;"></a>
+  <a href = "mailto:patrycksilva70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/patryck-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href= "https://twitter.com/CauePatryck" target= "_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  </div>
+  <p>Desde pequeno apaixonado por tecnologia, e sempre em buscar de aprender e evoluir.</p>
