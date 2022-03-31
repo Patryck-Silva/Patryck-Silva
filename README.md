@@ -1,13 +1,13 @@
-<h1 align="left">Oi Tudo bem? Eu sou o <i>Patryck Silva</i>😃️</h1>
-<p align="left">Sou estudante de programação na <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a><span>👾</span></p>
-<p align="left">Estou estudando para ser um desenvolvedor Java Full Stack<span>💻</span></p>
-<div align="center">
+<h1 align="center">
+    <img alt="patrycksilva" src="https://cdn.discordapp.com/attachments/954033698012033136/959055731200495646/unknown.png" />
+</h1>
+<!--<div align="center">
   <a href="https://github.com/Patryck-Silva">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Patryck-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patryck-Silva&layout=compact&langs_count=7&theme=dark"/>
-    </div>
+    </div>-->
   
- ##
+ 
   <div style="display: inline_block" ><br>
   <img align="center" alt="Patryck-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
