@@ -32,4 +32,4 @@
   <a href="https://www.linkedin.com/in/patryck-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href= "https://twitter.com/CauePatryck" target= "_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
-  <p>Desde pequeno apaixonado por tecnologia, e sempre em buscar de aprender e evoluir.</p>
+  <p>Desde pequeno apaixonado por tecnologia, e sempre em busca de aprender e evoluir.</p>
