@@ -38,4 +38,4 @@
     
   <p>Since I was little passionate about technology, and always looking to learn and evolve.</p>
   <p>"The secret of your success is hidden in your daily routine"</p>
->
+
