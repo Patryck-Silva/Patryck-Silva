@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="patrycksilva" src="https://cdn.discordapp.com/attachments/954033698012033136/959058195756752946/unknown.png" />
+    <img alt="patrycksilva" src="https://cdn.discordapp.com/attachments/954033698012033136/959058818329874502/unknown.png" />
 </h1>
 <div align="center">
   <a href="https://github.com/Patryck-Silva">
