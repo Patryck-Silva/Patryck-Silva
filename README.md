@@ -1,13 +1,14 @@
 <h1 align="center">
-    <img alt="patrycksilva" src="https://cdn.discordapp.com/attachments/954033698012033136/959055731200495646/unknown.png" />
+    <img alt="patrycksilva" src="https://cdn.discordapp.com/attachments/954033698012033136/959058195756752946/unknown.png" />
 </h1>
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/Patryck-Silva">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Patryck-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patryck-Silva&layout=compact&langs_count=7&theme=dark"/>
-    </div>-->
+    </div>
   
- 
+ ##
+    
   <div style="display: inline_block" ><br>
   <img align="center" alt="Patryck-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
@@ -32,5 +33,5 @@
   <a href="https://www.linkedin.com/in/patryck-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href= "https://twitter.com/CauePatryck" target= "_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
-  <p>Desde pequeno apaixonado por tecnologia, e sempre em busca de aprender e evoluir.</p>
-  <p>"O segredo do seu sucesso está escondido na sua rotina diária"</p>
+  <p>Since I was little passionate about technology, and always looking to learn and evolve.</p>
+  <p>"The secret of your success is hidden in your daily routine"</p>
