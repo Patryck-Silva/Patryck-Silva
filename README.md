@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="patrycksilva" src="https://cdn.discordapp.com/attachments/954033698012033136/959061210031095818/unknown.png" />
 </h1>
-<div align="center">
+<div align="left">
   <a href="https://github.com/Patryck-Silva">
  <!-- <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Patryck-Silva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>-->
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patryck-Silva&layout=compact&langs_count=7&theme=midnight-purple"/>
