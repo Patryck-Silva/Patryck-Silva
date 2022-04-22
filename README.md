@@ -1,13 +1,30 @@
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=50&duration=4000&color=B591E4&center=true&vCenter=true&width=850&lines=Hi,+my+name+is+Patryck+Silva)](https://git.io/typing-svg)
+</div> 
+
+##
+
 <h1 align="center">
-    <img alt="patrycksilva" src="https://cdn.discordapp.com/attachments/954033698012033136/959061210031095818/unknown.png" />
+    <img alt="patrycksilva" src="https://cdn.discordapp.com/attachments/954033698012033136/966848515747753984/unknown.png" />
 </h1>
+
+<h6>texto</h6>
+
+##
+
 <div align="left">
   <a href="https://github.com/Patryck-Silva">
  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Patryck-Silva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patryck-Silva&layout=compact&langs_count=7&theme=midnight-purple"/>
     </div>
-  
- ##
+    
+  ##
+    
+ 
+    
+    
+    
 ### My skills: 
   <div style="display: inline_block" ><br>
   <!--<img align="center" alt="Patryck-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
