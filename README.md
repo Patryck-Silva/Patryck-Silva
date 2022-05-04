@@ -3,18 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&duration=4000&color=B591E4&center=true&vCenter=true&width=650&lines=Hi,++my++name++is++Patryck++Silva)](https://git.io/typing-svg)
   
 </div> 
-
-##
-
-
 <!--texto/imagens de apresentacao-->
 <div align="center">
     <img alt="patrycksilva" src="https://cdn.discordapp.com/attachments/954033698012033136/966848515747753984/unknown.png" />
 </div>
-
-
-
-##
 
 <h3>GitHub Stats 🤖</h3>
 <!-- stats de linguagens e commits-->
