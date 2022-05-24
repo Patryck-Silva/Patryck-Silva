@@ -35,8 +35,8 @@
  <img align="center" alt="patryck-java" height="45" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <!--<img align="center" alt="patryck-node" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>-->
 <img align="center" alt="patryck-spring" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
- <img align="center" alt="patryck-linux" height="40" widht="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <!-- <img align="center" alt="patryck-react" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />-->
+ <!--<img align="center" alt="patryck-linux" height="40" widht="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />-->
+ <img align="center" alt="patryck-react" height="30" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="patryck-mysql"height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="right" alt="programmin-pic"height="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 </div>
