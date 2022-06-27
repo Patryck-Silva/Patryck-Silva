@@ -9,7 +9,7 @@
 
 <!--texto/imagens de apresentacao-->
 <div align="center">
-    <img alt="Presentention" src="https://i.imgur.com/EbtbFQp.png" />
+    <img alt="Presentention" src="https://i.imgur.com/wT3VHZN.png" />
 </div>
 
 <h3>GitHub Stats 🤖</h3>
